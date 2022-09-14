@@ -1,4 +1,6 @@
-<p vertical-align: "middle">Hi there, I'm Cindy</p> <img src="https://github.com/cin-day/cin-day/blob/main/billd.gif" width="100" vertical-align: middle/>
+<!-- <p vertical-align: "middle">Hi there, I'm Cindy </p> <img src="https://github.com/cin-day/cin-day/blob/main/billdbird.gif" width="100" vertical-align: middle/> -->
+
+### Hi there, I'm Cindy!<img src="https://github.com/cin-day/cin-day/blob/main/billdbird.gif" width="50"/>
 
 <!--
 **cin-day/cin-day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
