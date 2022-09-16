@@ -2,4 +2,4 @@
 I'm currently looking for Summer 2023 internships!
 - 🤔 I'm a third year computer science student at the University of Waterloo
 - 💻 I'm passionate about software development and data engineering
-- 🧸 I love watching sitcoms, listening to music, and playing TFT! Ask me about my favourite comp this set
+- 🧸 I love exploring new restaurants, watching sitcoms, and playing TFT! Ask me about my favourite comp this set
